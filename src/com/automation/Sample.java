@@ -36,10 +36,9 @@ public class Sample {
             System.out.println("Test Failed");
         }
        
-        //close Fire fox
+        //close Fire-fox
         driver.close();
        
     }
 
 }
-
